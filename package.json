@@ -1,0 +1,16 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "14 Mar 18",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pras",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "color": "^3.0.0",
+    "colors": "^1.2.1"
+  }
+}
